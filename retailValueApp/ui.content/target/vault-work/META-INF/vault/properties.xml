@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>RetailValueApp - UI content</comment>
+<entry key="createdBy">saumukhe</entry>
+<entry key="name">retailValueApp.ui.content</entry>
+<entry key="created">2016-11-06T22:32:57.753+0530</entry>
+<entry key="groupId">RetailValueApp</entry>
+<entry key="version">1.0-SNAPSHOT</entry>
+<entry key="requiresRoot">false</entry>
+<entry key="group">RetailValueApp</entry>
+<entry key="description">UI content package for RetailValueApp</entry>
+<entry key="artifactId">retailValueApp.ui.content</entry>
+<entry key="path">/etc/packages/RetailValueApp/retailValueApp.ui.content.zip</entry>
+</properties>
